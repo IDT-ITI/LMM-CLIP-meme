@@ -51,6 +51,8 @@ This software is provided by the authors "as is" and any express or implied warr
 ## Citation
 If you find our method useful in your work or you use some materials provided in this repo, please cite the following publication where our method and materials were presented: 
 
+Pre-print: http://arxiv.org/abs/2504.09914
+
 ````
 @inproceedings{tzelepi2025improving,
     title={Improving multimodal hateful meme detection exploiting LMM-generated knowledge},
